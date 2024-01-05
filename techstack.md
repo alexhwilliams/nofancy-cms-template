@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [alexhwilliams/nofancy-cms-template](https://github.com/alexhwilliams/nofancy-cms-template)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|32<br/>Tools used|01/04/24 <br/>Report generated|
+|32<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
